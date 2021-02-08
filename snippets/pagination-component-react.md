@@ -1,3 +1,8 @@
+---
+title: "A React pagination component"
+---
+
+```jsx
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import Icon from './Icon';
@@ -175,3 +180,4 @@ Pagination.propTypes = {
 };
 
 export default Pagination;
+```
