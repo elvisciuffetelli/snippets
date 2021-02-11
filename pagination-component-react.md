@@ -1,6 +1,6 @@
----
-title: "A React pagination component"
----
+
+###### A React pagination component
+
 
 ```jsx
 import React, { useEffect, useState } from 'react';
